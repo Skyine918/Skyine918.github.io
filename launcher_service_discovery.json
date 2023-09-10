@@ -1,0 +1,20 @@
+{
+  "launcherServers": [
+    {
+      "host": "https://launcher2.starshine-project.ru",
+      "location": "RU"
+    }
+  ],
+  "authServers": [
+    {
+      "host": "https://auth.starshine-project.ru",
+      "location": "RU"
+    }
+  ],
+  "settings": {
+    "discord": "https://discord.gg/tv3cBnd",
+    "telegram": null,
+    "site": "https://starshine-project.ru/",
+    "vk": null
+  }
+}
