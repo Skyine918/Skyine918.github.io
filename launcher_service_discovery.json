@@ -11,10 +11,22 @@
       "location": "RU"
     }
   ],
-  "settings": {
-    "discord": "https://discord.gg/tv3cBnd",
-    "telegram": null,
-    "site": "https://starshine-project.ru/",
-    "vk": null
-  }
+  "settings": [
+    {
+      "type": "discord",
+      "link": "https://discord.gg/tv3cBnd"
+    },
+    {
+      "type": "telegram",
+      "link": null
+    },
+    {
+      "type": "site",
+      "link": "https://starshine-project.ru/"
+    },
+    {
+      "type": "vk",
+      "link": null
+    }
+  ]
 }
