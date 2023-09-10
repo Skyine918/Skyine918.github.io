@@ -1,12 +1,12 @@
 {
-  "launcherServers": [
+  "servers": [
     {
+      "type": "launcher",
       "host": "https://launcher2.starshine-project.ru",
       "location": "RU"
-    }
-  ],
-  "authServers": [
+    },
     {
+      "type": "auth",
       "host": "https://auth.starshine-project.ru",
       "location": "RU"
     }
