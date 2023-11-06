@@ -9,6 +9,16 @@
       "type": "auth",
       "host": "https://auth.starshine-project.ru",
       "location": "RU"
+    },
+    {
+      "type": "auth",
+      "host": "https://sproxyauth.astra-dev.online",
+      "location": "EN"
+    },
+    {
+      "type": "launcher",
+      "host": "https://sproxylaunch.astra-dev.online",
+      "location": "EN"
     }
   ],
   "links": [
